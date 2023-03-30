@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LeFleur-responsive/static/css/main.fbd6abee.css",
+    "main.js": "/LeFleur-responsive/static/js/main.3120c185.js",
+    "index.html": "/LeFleur-responsive/index.html",
+    "main.fbd6abee.css.map": "/LeFleur-responsive/static/css/main.fbd6abee.css.map",
+    "main.3120c185.js.map": "/LeFleur-responsive/static/js/main.3120c185.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbd6abee.css",
+    "static/js/main.3120c185.js"
+  ]
+}
